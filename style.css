@@ -1,0 +1,48 @@
+.jumbotron {
+  padding-top: 17rem;
+  background-color: #e2edff;
+}
+
+#what {
+  background-color: #e2edff;
+}
+
+#contact{
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 16rem;
+}
+.nmp{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  background-color: #e2edff;
+  margin-top: 60px;
+}
+.text{
+
+  align-self: center;
+  margin-top: 20px;
+}
+.justify{
+  text-align: justify;
+  margin-top: 20px;
+}
+.table{
+  align-self: center;
+}
+.carousel-caption{
+  background-color: #4e515762;
+  border-radius: 10px;
+}
+#logo{
+  background-color: #e2edff;
+}
+#icon{
+  margin-top: 10px;
+}
+#note{
+  margin-top: 10px;
+}
